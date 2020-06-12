@@ -1,8 +1,7 @@
 # Connect Four
 https://hayley0918.github.io/Connect-Four/
 
-![connect_four_image](./connect_four.png)
-<img src="./connect_four.png" width="350" height="350">
+<img src="./connect_four.png" width="500" height="500">
 
 ### history
 
